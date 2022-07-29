@@ -2,7 +2,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/awindsr/awindsr/blob/main/images/banner.png" />
+<img src="https://github.com/awindsr/awindsr/blob/main/images/github-header-image.png" />
 
 
 
