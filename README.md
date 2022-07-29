@@ -10,7 +10,7 @@
   bio.
 </p>   -->
 
-<h2 align="center">Technology Stack <img src="https://github.com/awindsr/awindsr/blob/main/images/developer.gif" width="50"></h2>
+<h2 align="center">Technology Stack <img src="https://github.com/awindsr/awindsr/blob/main/images/dev.gif" width="50"></h2>
 
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
