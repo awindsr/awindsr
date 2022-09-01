@@ -69,10 +69,8 @@
 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=awindsr&theme=redical&hide_border=true">
- <img
-  src="https://github.com/awindsr/awindsr/blob/main/images/stat.svg"
-  alt="Wakatime Activity"
-/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
  
  <a href="https://www.buymeacoffee.com/awindsr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p> 
