@@ -16,7 +16,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LINES_OF_CODE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_LANGUAGE: "True"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LOC_CHART: "False"
-          SHOW_LANGUAGE: "True"
+          
           
