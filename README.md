@@ -70,6 +70,38 @@
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=awindsr&theme=redical&hide_border=true">
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 65 Contributions in the Year 2022
+ > 
+> 📦 1.3 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 4 Private Repositories  
+ > 
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             ████████████████░░░░░░░░░   66.67% 
+JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/awindsr/awindsr/main/charts/bar_graph.png) 
+
+
+ Last Updated on 01/09/2022 18:15:03 UTC
 <!--END_SECTION:waka-->
  
  <a href="https://www.buymeacoffee.com/awindsr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
