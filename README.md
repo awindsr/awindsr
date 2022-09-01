@@ -71,8 +71,7 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=awindsr&theme=redical&hide_border=true">
  
 <!--START_SECTION:waka-->
- 
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -80,7 +79,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 65 Contributions in the Year 2022
+> 🏆 69 Contributions in the Year 2022
  > 
 > 📦 1.4 kB Used in GitHub's Storage 
  > 
@@ -90,8 +89,53 @@
  > 
 > 🔑 4 Private Repositories  
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 01/09/2022 18:33:10 UTC
+```text
+🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75% 
+🌆 Daytime    18 commits     ████████░░░░░░░░░░░░░░░░░   31.58% 
+🌃 Evening    19 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
+🌙 Night      19 commits     ████████░░░░░░░░░░░░░░░░░   33.33%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75% 
+Tuesday      7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.28% 
+Wednesday    3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+Thursday     18 commits     ████████░░░░░░░░░░░░░░░░░   31.58% 
+Friday       3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+Saturday     22 commits     █████████░░░░░░░░░░░░░░░░   38.6% 
+Sunday       3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   1 min               █████████████████░░░░░░░░   68.98% 
+HTML                     0 secs              ███████░░░░░░░░░░░░░░░░░░   31.02%
+
+🔥 Editors: 
+PyCharmCore              1 min               ███████████████░░░░░░░░░░   60.09% 
+VS Code                  0 secs              ██████████░░░░░░░░░░░░░░░   39.91%
+
+🐱‍💻 Projects: 
+Python                   1 min               ███████████████░░░░░░░░░░   60.09% 
+tradingjournal-main      0 secs              ██████████░░░░░░░░░░░░░░░   39.91%
+
+💻 Operating System: 
+Windows                  2 mins              █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 01/09/2022 20:22:11 UTC
 <!--END_SECTION:waka-->
  
  <a href="https://www.buymeacoffee.com/awindsr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
