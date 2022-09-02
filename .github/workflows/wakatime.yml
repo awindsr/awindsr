@@ -18,4 +18,5 @@ jobs:
           BLOCKS: ->
           TIME_RANGE: all_time
           SHOW_TIME: true
+          SHOW_LINES_OF_CODE: "True"
           SHOW_TOTAL: true
