@@ -73,12 +73,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 August 2022 - To: 01 September 2022
+From: 31 August 2022 - To: 02 September 2022
 
-Total Time: 2 mins
+Total Time: 5 hrs 16 mins
 
-Python   1 min           >>>>>>>>>>>>>>>>>--------   68.98 %
-HTML     0 secs          >>>>>>>>-----------------   31.02 %
+Python   5 hrs 5 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   96.40 %
+JSON     7 mins          >------------------------   02.52 %
+CSV      1 min           -------------------------   00.58 %
+Text     0 secs          -------------------------   00.29 %
+HTML     0 secs          -------------------------   00.21 %
 ```
 
 <!--END_SECTION:waka-->
