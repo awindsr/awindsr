@@ -10,7 +10,7 @@
   bio.
 </p>   -->
 
-<h2 align="center">Technology Stack <img src="https://github.com/awindsr/awindsr/blob/main/images/dev.gif" width="50"></h2>
+<h2 align="center">Technology Stack <!--img src="https://github.com/awindsr/awindsr/blob/main/images/dev.gif" width="50"--> </h2>
 
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="center">Reach me out on <!--img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"--></h2>
 
 <p align="center">
 <a href="mailto: awindsr@gmail.com">
@@ -46,14 +46,14 @@
 
 
 <h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+  My Contribution Graph <!--img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50"-->
 </h2>
 <p align="center">
   <img src="https://github.com/awindsr/awindsr/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="snake"></center>
 </p>
 
 <h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  My Github Stats <!--img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"-->
 </h2>
  
 <br>
