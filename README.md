@@ -45,12 +45,12 @@
 </p>
 
 
-<h2 align="center">
+<!-- <h2 align="center">
   My Contribution Graph <!--img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50"-->
 </h2>
 <p align="center">
   <img src="https://github.com/awindsr/awindsr/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="snake"></center>
-</p>
+</p> -->
 
 <h2 align="center">
   My Github Stats <!--img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"-->
@@ -67,8 +67,8 @@
  <img  src="http://github-readme-streak-stats.herokuapp.com?user=awindsr&theme=radical&hide_border=true" />
 </p> 
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=awindsr&theme=redical&hide_border=true">
+<!-- <p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=awindsr&theme=redical&hide_border=true"> -->
  
 <!--START_SECTION:waka-->
 
