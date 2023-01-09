@@ -74,11 +74,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 August 2022 - To: 06 January 2023
+From: 31 August 2022 - To: 07 January 2023
 
-Total Time: 46 hrs 31 mins
+Total Time: 49 hrs 43 mins
 
-Other        43 hrs 58 mins  >>>>>>>>>>>>-------------   48.59 %
+Other        43 hrs 58 mins  >>>>>>>>>>>>-------------   46.94 %
 ```
 
 <!--END_SECTION:waka-->
