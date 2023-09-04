@@ -37,7 +37,7 @@
  <img src="https://img.shields.io/badge/-Awindsr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:awindsr@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/awindsr/">
- <img src="https://img.shields.io/badge/-awindasr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/awindsr/"/>
+ <img src="https://img.shields.io/badge/-awindsr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/awindsr/"/>
 </a>
  <a href="https://twitter.com/Awindsr">
  <img src="https://img.shields.io/badge/-awindsr-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Awindsr"/>
