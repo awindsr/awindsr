@@ -69,7 +69,8 @@
 
 <!-- <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=awindsr&theme=redical&hide_border=true"> -->
- 
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/awindsr/github-profile-trophy)
  
 <!--START_SECTION:waka-->
 
