@@ -6,7 +6,7 @@
 <h3 align="center">A Web developer from Kerala,India</h3>
 
 
- <p align="center"><a href="https://github.com/awindsr/"><img src="[https://readme-typing-svg.herokuapp.com?lines=Web+developer;Ui/UX+Designer;Freelancer;Tech Enthusiast&center=true&width=500&height=30](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7500F7&center=true&random=false&width=435&lines=Web+Developer;UI%2FUX+Designer;Tech+Enthusiast)](https://git.io/typing-svg)"></a></p>
+ <p align="center"><a href="https://github.com/awindsr/"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+developer;Ui/UX+Designer;Freelancer;Tech Enthusiast&center=true&width=500&height=30"></a></p>
 
 
 
