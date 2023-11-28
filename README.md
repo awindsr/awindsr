@@ -1,18 +1,9 @@
 
-<p align="center">
- 
-</p align="center">
 <h1 align="center">Hi 👋, I'm Awin</h1>
 <h3 align="center">A Web developer from Kerala,India</h3>
 
 
- <p align="center"><a href="https://github.com/awindsr/"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+developer;Ui/UX+Designer;Freelancer;Tech Enthusiast&center=true&width=500&height=30"></a></p>
-
-
-
-<!-- <p align="center">
-  bio.
-</p>   -->
+ <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7500F7&center=true&random=false&width=435&lines=Web+Developer;UI%2FUX+Designer;Tech+Enthusiast" alt="Typing SVG" /></a></p>
 
 <h2 align="center">Technology Stack <!--img src="https://github.com/awindsr/awindsr/blob/main/images/dev.gif" width="50"--> </h2>
 
