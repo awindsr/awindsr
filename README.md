@@ -2,7 +2,11 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/awindsr/awindsr/blob/main/images/github-header-image.png" />
+<h1 align="center">Hi 👋, I'm Awin</h1>
+<h3 align="center">A Web developer from Kerala,India</h3>
+
+
+ <p align="center"><a href="https://github.com/awindsr/"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+developer;Ui/UX+Designer;Freelancer;Tech Enthusiast&center=true&width=500&height=30"></a></p>
 
 
 
