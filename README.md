@@ -68,15 +68,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2022 - To: 04 June 2024
+From: 31 August 2022 - To: 05 June 2024
 
-Total Time: 405 hrs 53 mins
+Total Time: 414 hrs 40 mins
 
-JavaScript       154 hrs 2 mins  >>>>>>>>>----------------   34.16 %
-HTML             65 hrs 43 mins  >>>>---------------------   14.58 %
-CSS              52 hrs 28 mins  >>>----------------------   11.64 %
-Other            45 hrs          >>-----------------------   09.98 %
-Python           37 hrs 6 mins   >>-----------------------   08.23 %
+JavaScript       161 hrs 55 mins >>>>>>>>>----------------   35.22 %
+HTML             66 hrs 9 mins   >>>>---------------------   14.39 %
+CSS              52 hrs 37 mins  >>>----------------------   11.45 %
+Other            45 hrs 1 min    >>-----------------------   09.79 %
+Python           37 hrs 6 mins   >>-----------------------   08.07 %
 ```
 
 <!--END_SECTION:waka-->
