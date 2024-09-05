@@ -45,7 +45,7 @@
 <!-- </h2>
 <p align="center">
   <img src="https://github.com/awindsr/awindsr/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="snake"></center>
-</p> --> -->
+</p> -->
 
 <h2 align="center">
   My Github Stats <!--img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"-->
