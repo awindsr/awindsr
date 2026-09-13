@@ -125,7 +125,7 @@ Most of my work involves grounding models in real data, giving them tools, and k
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2022 - To: 11 September 2026
+From: 31 August 2022 - To: 12 September 2026
 
 Total Time: 1,537 hrs 50 mins
 
