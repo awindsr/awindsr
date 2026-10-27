@@ -125,15 +125,15 @@ Most of my work involves grounding models in real data, giving them tools, and k
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2022 - To: 25 October 2026
+From: 31 August 2022 - To: 26 October 2026
 
-Total Time: 1,611 hrs 20 mins
+Total Time: 1,613 hrs 7 mins
 
-TypeScript                         717 hrs 21 mins       >>>>>>>>>>>--------------   42.63 %
-JavaScript                         339 hrs 54 mins       >>>>>--------------------   20.20 %
-CSS                                94 hrs 11 mins        >------------------------   05.60 %
+TypeScript                         717 hrs 21 mins       >>>>>>>>>>>--------------   42.58 %
+JavaScript                         340 hrs 15 mins       >>>>>--------------------   20.19 %
+CSS                                94 hrs 11 mins        >------------------------   05.59 %
 HTML                               90 hrs 44 mins        >------------------------   05.39 %
-Markdown                           78 hrs 38 mins        >------------------------   04.67 %
+Markdown                           79 hrs 22 mins        >------------------------   04.71 %
 ```
 
 <!--END_SECTION:waka-->
